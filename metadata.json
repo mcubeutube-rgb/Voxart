@@ -1,0 +1,6 @@
+{
+  "name": "VoxArt",
+  "description": "Generate dynamic voices and styled images from text with customizable pitch, modulation, emotion comments, and visual style prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

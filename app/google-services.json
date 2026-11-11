@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306712911518",
+    "project_id": "gen-lang-client-0233375111",
+    "storage_bucket": "gen-lang-client-0233375111.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306712911518:android:f94cebdb296716c346258f",
+        "android_client_info": {
+          "package_name": "com.aistudio.voxart.wqvzn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2OqX71Cza1u2jl9Pr0eJjAk-6yBoKg9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
